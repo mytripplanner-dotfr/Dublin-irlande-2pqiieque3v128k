@@ -1,0 +1,205 @@
+{
+  "pays": "Irlande",
+  "drapeau": "🇮🇪",
+  "symbole": "🍀",
+  "titre": "Escapade relaxante à Dublin",
+  "budget_total": "Environ 800-850 €/personne",
+  "duree": "3 jours",
+  "date_debut": "2026-02-28",
+  "date_fin": "2026-03-03",
+  "temps_vol": "1h45 (depuis Paris, france)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et immersion douce à Dublin",
+      "legende": "Après un court vol, installez-vous et laissez-vous charmer par l'ambiance conviviale de Dublin. Une balade relaxante le long de la Liffey et une première découverte des pubs traditionnels vous attendent pour débuter le voyage en douceur.",
+      "lieu": "Dublin",
+      "activites": [
+        "<strong>🛬 Arrivée à Dublin et transfert:</strong> Atterrissage à l'aéroport de Dublin et transfert vers le centre-ville. Le bus Aircoach est une option pratique et rapide.",
+        "<strong>🛏️ Installation à l'hôtel:</strong> Posez vos bagages et détendez-vous après le voyage. Profitez de ce moment pour vous rafraîchir.",
+        "<strong>🚶‍♀️ Balade le long de la Liffey et O'Connell Street:</strong> Une promenade paisible pour s'imprégner de l'atmosphère de la ville, en admirant les ponts emblématiques et les monuments historiques.",
+        "<strong>🍻 Dîner et ambiance pub (extérieur):</strong> Profitez de l'ambiance vibrante de Dublin depuis l'extérieur, puis trouvez un pub plus authentique et moins touristique pour un dîner relaxant."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Dublin Airport, Dublin",
+          "categorie": "Aéroport",
+          "coords": { "lat": 53.4264, "lng": -6.2499 }
+        },
+        {
+          "nom_recherche": "River Liffey, Dublin",
+          "categorie": "Fleuve",
+          "coords": { "lat": 53.3478, "lng": -6.2597 }
+        },
+        {
+          "nom_recherche": "O'Connell Street, Dublin",
+          "categorie": "Rue emblématique",
+          "coords": { "lat": 53.3498, "lng": -6.2603 }
+        },
+        {
+          "nom_recherche": "Temple Bar, Dublin",
+          "categorie": "Quartier animé",
+          "coords": { "lat": 53.3463, "lng": -6.2661 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Transport aéroport",
+          "texte": "L'Aircoach (ligne 700) relie l'aéroport au centre-ville de Dublin en environ 30-40 minutes. Achetez vos billets en ligne ou directement au bus."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🍀",
+      "titre": "Patrimoine, parcs et saveurs locales",
+      "legende": "Plongez dans l'histoire de Dublin avec une visite culturelle apaisante, puis échappez à l'agitation urbaine dans un magnifique parc. Terminez la journée par une dégustation de spécialités locales dans une ambiance chaleureuse.",
+      "lieu": "Dublin",
+      "activites": [
+        "<strong>📚 Visite de la Bibliothèque de Chester Beatty:</strong> Explorez cette bibliothèque-musée primée, abritant des manuscrits, des estampes et des objets d'art du monde entier, offrant une expérience culturelle calme et enrichissante.",
+        "<strong>🌳 Détente à St Stephen's Green:</strong> Profitez d'une promenade relaxante dans ce magnifique parc victorien au cœur de Dublin, idéal pour observer les gens et se ressourcer.",
+        "<strong>🛍️ Flânerie et shopping léger sur Grafton Street:</strong> Découvrez les boutiques et les artistes de rue de cette rue commerçante emblématique, sans pression d'achat, juste pour le plaisir des yeux.",
+        "<strong>🍽️ Dégustation de spécialités irlandaises:</strong> Savourez un dîner typique dans un restaurant traditionnel, loin des foules touristiques, pour une immersion gustative."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Chester Beatty Library, Dublin",
+          "categorie": "Bibliothèque-Musée",
+          "coords": { "lat": 53.3434, "lng": -6.2711 }
+        },
+        {
+          "nom_recherche": "St Stephen's Green, Dublin",
+          "categorie": "Parc",
+          "coords": { "lat": 53.3396, "lng": -6.2621 }
+        },
+        {
+          "nom_recherche": "Grafton Street, Dublin",
+          "categorie": "Rue commerçante",
+          "coords": { "lat": 53.3421, "lng": -6.2600 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🆓",
+          "titre": "Entrée gratuite",
+          "texte": "La Chester Beatty Library offre une entrée gratuite, une excellente option pour une activité culturelle sans frais."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌊",
+      "titre": "Évasion côtière et bien-être",
+      "legende": "Échappez à la ville pour une bouffée d'air frais le long de la côte, admirez des paysages marins pittoresques et terminez la journée par une expérience de bien-être unique pour une relaxation profonde.",
+      "lieu": "Dublin & Howth",
+      "activites": [
+        "<strong>🚶‍♀️ Randonnée douce sur la péninsule de Howth:</strong> Prenez le DART (train de banlieue) jusqu'à Howth pour une balade côtière pittoresque, offrant des vues imprenables sur la mer et les falaises. Choisissez un sentier facile adapté à la détente.",
+        "<strong>🐟 Déjeuner de fruits de mer à Howth:</strong> Savourez des fruits de mer frais dans l'un des charmants restaurants du port de Howth, une véritable expérience culinaire locale.",
+        "<strong>💆‍♀️ Détente dans un spa urbain:</strong> Offrez-vous un moment de relaxation dans un spa du centre de Dublin, avec un massage ou l'accès à un espace bien-être pour recharger les batteries avant le départ."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Howth, Dublin",
+          "categorie": "Village côtier",
+          "coords": { "lat": 53.3850, "lng": -6.0689 }
+        },
+        {
+          "nom_recherche": "Howth Harbour, Dublin",
+          "categorie": "Port",
+          "coords": { "lat": 53.3858, "lng": -6.0680 }
+        },
+        {
+          "nom_recherche": "The Merrion Hotel Spa, Dublin",
+          "categorie": "Spa",
+          "coords": { "lat": 53.3399, "lng": -6.2546 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚆",
+          "titre": "Accès à Howth",
+          "texte": "Le DART est le moyen le plus simple et le plus pittoresque pour se rendre à Howth depuis le centre de Dublin. Le trajet dure environ 25-30 minutes."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Derniers instants et départ",
+      "legende": "Profitez d'un dernier petit-déjeuner irlandais avant de vous diriger vers l'aéroport, la tête pleine de souvenirs de cette escapade relaxante et culturelle à Dublin.",
+      "lieu": "Dublin",
+      "activites": [
+        "<strong>☕ Petit-déjeuner irlandais:</strong> Savourez un dernier \"Full Irish Breakfast\" pour bien commencer la journée.",
+        "<strong>🛍️ Achats de dernière minute (optionnel):</strong> Si le temps le permet, quelques souvenirs à rapporter pour prolonger le voyage.",
+        "<strong>🛫 Transfert à l'aéroport et vol retour:</strong> Départ de Dublin vers Paris, la tête remplie de beaux souvenirs."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Dublin Airport, Dublin",
+          "categorie": "Aéroport",
+          "coords": { "lat": 53.4264, "lng": -6.2499 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": []
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 191 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 40 €/pers (Aircoach A/R, DART Howth)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 180 €/pers (60€/jour pour 3 jours)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 360 €/pers (120€/nuit pour 3 nuits en 3*)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 40 €/pers (spa, entrées si besoin)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mars à Mai", "symbole": "🌸" },
+    { "titre": "Septembre à Octobre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En février/mars, les températures varient entre 3 et 10°C. Prévoir des vêtements chauds, imperméables et des chaussures confortables.", "symbole": "☔" },
+    { "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont largement acceptées. Prévoir un adaptateur pour les prises électriques (type G, comme au Royaume-Uni).", "symbole": "💳" },
+    { "titre": "La langue officielle est l'anglais (et le gaélique irlandais). La conduite se fait à gauche de la route.", "symbole": "🗣️" },
+    { "titre": "Le réseau de bus est étendu à Dublin. Pour les trajets plus longs, le DART (train de banlieue) est très pratique.", "symbole": "🚌" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "Dublin est la seule capitale au monde à avoir deux prix Nobel de littérature nés dans la même rue : William Butler Yeats et George Bernard Shaw, tous deux originaires de Synge Street."
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "Le célèbre pont Ha'penny Bridge, l'un des symboles de Dublin, a été nommé ainsi car il fallait payer un demi-penny pour le traverser à son ouverture en 1816. Heureusement, il est gratuit aujourd'hui !"
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍴",
+      "titre": "Irish Stew",
+      "description": "Un ragoût copieux et réconfortant à base d'agneau ou de bœuf, de pommes de terre, de carottes et d'oignons, parfait pour les journées fraîches."
+    },
+    {
+      "symbole": "🍳",
+      "titre": "Full Irish Breakfast",
+      "description": "Un petit-déjeuner traditionnel et très consistant, composé de saucisses, bacon, œufs, boudin noir et blanc, haricots, tomates et toast."
+    },
+    {
+      "symbole": "🍺",
+      "titre": "Guinness",
+      "description": "La célèbre bière stout irlandaise, brassée à Dublin, reconnaissable à sa couleur sombre et sa mousse crémeuse. À déguster dans un pub traditionnel."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-DUB/2026-02-28/2026-03-03", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Irlande", "url": "https://www.ireland.com/fr-fr/", "symbole": "📘" },
+    { "legende": "Transfert aéroport", "titre": "Aircoach", "url": "https://www.aircoach.ie/", "symbole": "🚌" },
+    { "legende": "Transports locaux (DART)", "titre": "Irish Rail", "url": "https://www.irishrail.ie/", "symbole": "🚆" }
+  ]
+}
